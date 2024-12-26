@@ -8,7 +8,7 @@ function App() {
  
     // const carouselData = [
     //   {
-    //     image: 'https://via.placeholder.com/600',
+    //     image: 'https://via.placseholder.com/600',
     //     title: 'Slide 1',
     //     description: 'This is the first slide description.'
     //   },
